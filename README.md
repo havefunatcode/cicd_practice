@@ -1,1 +1,1 @@
-# source-java-maven-hello-world
+This is jenkins pracrtice with maven
